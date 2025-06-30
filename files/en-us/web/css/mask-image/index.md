@@ -36,11 +36,9 @@ mask-image: unset;
 ### Values
 
 - `none`
-
   - : This keyword is interpreted as a transparent black image layer.
 
 - `<mask-source>`
-
   - : A {{cssxref("url_value", "&lt;url&gt;")}} reference to a {{SVGElement("mask")}} or to a CSS image.
 
 - {{cssxref("&lt;image&gt;")}}
@@ -289,4 +287,5 @@ Toggle the checkbox to toggle the value of the `mask-mode` between `alpha` (chec
 - {{cssxref("mask-size")}}
 - {{cssxref("mask-border")}}
 - {{cssxref("clip-path")}}
+- [Introduction to CSS masking](/en-US/docs/Web/CSS/CSS_masking/Masking)
 - [CSS masking](/en-US/docs/Web/CSS/CSS_masking) module
